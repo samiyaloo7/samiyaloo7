@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samiyaloo7
 - 👀 I’m interested in Coding ...
-- 🌱 I’m currently learning Magento 2
+- 🌱 I’m currently learning Magento 2, React
 - 📫 How to reach me samiyal7pro@gmail.com
 
 <!---
